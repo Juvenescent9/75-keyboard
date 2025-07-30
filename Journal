@@ -10,3 +10,7 @@ I was completely new to building keyboards, so i assembled a rough BOM. I decide
 I went with a raspberry pico since I was somewhat familiar with it, and decided to include a knob for volume and backlighting. 
 I also decided to make the case of the keyboard clear, to display the PCB. Not gonna lie, this day mainly consisted of scrolling pinterest and reddit to get a vague idea of what I was doing. 
 I included one of my inspriation pictures below a design I liked
+
+![Image](https://github.com/user-attachments/assets/10091c84-8367-4972-ad37-6ab670e0f1a6)
+
+Time spent: 1h
