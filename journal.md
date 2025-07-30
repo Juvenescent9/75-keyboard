@@ -52,7 +52,7 @@ I finished made the repo and polished it, made an accurate BOM with links, finis
 
 Time spent: 2h
 
-I finished the repo, imported the images and journal entries from google docs, just cleaned up the whole project. 
+
 
 
 
