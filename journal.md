@@ -34,13 +34,15 @@ I somehow managed to do the entire PCB setup and routing in one day. Unfortunate
 
 <img width="1680" height="1175" alt="Image" src="https://github.com/user-attachments/assets/3b0856bb-89e9-4cc6-80e4-23c2d755e1a4" />
 
-Time spent: 6h
+Time spent: 4h
 
 # July 28th
 
 Now that all that was left was CAD and firmware, I was back in my comfort zone and was able to get through the case relatively fast. It did take a nit longer than I intended since Kicad wasn't cooperating with me, and I had to add all the switches and keycaps manually during cad. Thank god for the pattern tool. Firmware only took about 20 minutes, I found the base kmk code and just adjusted it. 
 
 <img width="1763" height="1170" alt="Image" src="https://github.com/user-attachments/assets/052a3f02-bf1a-4378-9482-3c0b5cc7373e" />
+
+Time spent: 4h
 
 # July 29th
 
