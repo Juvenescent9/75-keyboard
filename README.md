@@ -2,6 +2,8 @@
 
 Clear as day is a custom, open source 75% keyboard with a rotary encoder and underlighting. 
 
+I made this project since I needed to work with PCBs and Kicad more, as well as to get used to routing well. All other aspects of this project, like coding and CAD, were things I was familiar with, so it was fun to challenge myself with something I wasn't used to doing. 
+
 <img width="1511" height="903" alt="Image" src="https://github.com/user-attachments/assets/01239d98-83da-4ca5-a973-b3a942fc949e" />
 
 # PCB
