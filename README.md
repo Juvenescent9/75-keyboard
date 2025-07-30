@@ -1,10 +1,29 @@
 # Clear as Day
 
+Clear as day is a custom, open source 75% keyboard with a rotary encoder and underlighting. 
+
+<img width="1325" height="744" alt="Image" src="https://github.com/user-attachments/assets/01590692-02aa-4581-b610-edc6e1d0b6ae" />
+
 # PCB
+
+The schematic consists of a basic keyboard matrix, which includes a rotary encoder, and also sk6812minis all wired toa raspberry pico. 
+<img width="1514" height="1216" alt="Image" src="https://github.com/user-attachments/assets/cb5a9266-c11c-4a6d-9d44-32157fe84fff" />
+
+The raspberry pico is placed on the right side edge to make it easy to plug in and for it to blend nicely in a case
+
+<img width="1712" height="831" alt="Image" src="https://github.com/user-attachments/assets/6b2e637b-ac9c-41eb-b915-5e24fdd8da05" />
 
 # Firmware
 
+I used KMK firmware to program the keyboard as well as the LEDs. 
+
 # CAD
+
+The case consists of 2 parts, and the pcb rests on a frame built on the bottom. I avoided the use of screws in the design because I wanted to make it clear, and I though including screws might take away how clean the design might look. Currently, I plan to use hotglue/a 3d pen to keep the case together. 
+
+<img width="1877" height="1132" alt="Image" src="https://github.com/user-attachments/assets/33def16f-1549-45a5-b809-2dcc2a1bbca6" />
+
+<img width="1325" height="744" alt="Image" src="https://github.com/user-attachments/assets/01590692-02aa-4581-b610-edc6e1d0b6ae" />
 
 # BOM
 
@@ -20,4 +39,4 @@
 | 8 | Case | bottom and top | Self made| |
 | 9 | PCB | 1 | JBL PCB | 23 USD |
 | 10 | Rotary encoder knob | 1 | 3D printed | |
-|Total price: (including tax+shipping)|  121.67 USD | Total price (No tax): | 102.33 | 
+|Total price: (including tax+shipping)|  120.67 USD | Total price (No tax): | 102.33 | 
