@@ -27,3 +27,11 @@ process quite a bit.
 <img width="1514" height="1216" alt="Image" src="https://github.com/user-attachments/assets/ecafe855-e85c-45ba-87ba-283ae8d7da1b" />
 
 Time spent: 3h
+
+# July 27th
+
+I somehow managed to do the entire PCB setup and routing in one day. Unfortunately, the footprint for the pico I was using was inaccurate and didn't actually support through-hole soldering. I was trying to be careful about the layout, considering the case might expose how bad it looked if it was a train wreck. I included a picture of when i was still moving the footprints.
+
+<img width="1680" height="1175" alt="Image" src="https://github.com/user-attachments/assets/3b0856bb-89e9-4cc6-80e4-23c2d755e1a4" />
+
+
