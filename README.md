@@ -2,7 +2,7 @@
 
 Clear as day is a custom, open source 75% keyboard with a rotary encoder and underlighting. 
 
-<img width="1325" height="744" alt="Image" src="https://github.com/user-attachments/assets/01590692-02aa-4581-b610-edc6e1d0b6ae" />
+<img width="1511" height="903" alt="Image" src="https://github.com/user-attachments/assets/01239d98-83da-4ca5-a973-b3a942fc949e" />
 
 # PCB
 
@@ -21,9 +21,7 @@ I used KMK firmware to program the keyboard as well as the LEDs.
 
 The case consists of 2 parts, and the pcb rests on a frame built on the bottom. I avoided the use of screws in the design because I wanted to make it clear, and I though including screws might take away how clean the design might look. Currently, I plan to use hotglue/a 3d pen to keep the case together. 
 
-<img width="1877" height="1132" alt="Image" src="https://github.com/user-attachments/assets/33def16f-1549-45a5-b809-2dcc2a1bbca6" />
-
-<img width="1325" height="744" alt="Image" src="https://github.com/user-attachments/assets/01590692-02aa-4581-b610-edc6e1d0b6ae" />
+<img width="1475" height="891" alt="Image" src="https://github.com/user-attachments/assets/d7062b09-ca10-4293-aea7-420796b79447" />
 
 # BOM
 
