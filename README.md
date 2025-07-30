@@ -10,3 +10,4 @@
 
 | # | Item | Amount | Link | Total Price |
 |---|------|--------|------|-------------|
+| 1 | Raspberry pico | 1 |
