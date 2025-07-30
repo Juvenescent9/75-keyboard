@@ -1,7 +1,9 @@
-Title: 75% keyboard
-Slack Username: bug
-Description: A custom 75% keyboard with a clear case, rotary encoder, and backlighting.
-Created at: 6/29/2025
+| Title: 75% keyboard |
+|--|
+| Slack Username: bug |
+| Description: A custom 75% keyboard with a clear case, rotary encoder, and backlighting. |
+| Created at: 6/29/2025 |
+| Total time spent: 14h |
 
 # July 25th
 
@@ -45,6 +47,10 @@ Now that all that was left was CAD and firmware, I was back in my comfort zone a
 Time spent: 4h
 
 # July 29th
+
+I finished made the repo and polished it, made an accurate BOM with links, finished the READme and imported journal entries. 
+
+Time spent: 2h
 
 I finished the repo, imported the images and journal entries from google docs, just cleaned up the whole project. 
 
