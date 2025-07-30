@@ -20,4 +20,4 @@
 | 8 | Case | bottom and top | Self made| |
 | 9 | PCB | 1 | JBL PCB | 23 USD |
 | 10 | Rotary encoder knob | 1 | 3D printed | |
-|Total price: (including tax)|  121.67 USD|
+|Total price: (including tax+shipping)|  121.67 USD | Total price (No tax): | 102.33 | 
