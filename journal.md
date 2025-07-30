@@ -42,6 +42,10 @@ Now that all that was left was CAD and firmware, I was back in my comfort zone a
 
 <img width="1763" height="1170" alt="Image" src="https://github.com/user-attachments/assets/052a3f02-bf1a-4378-9482-3c0b5cc7373e" />
 
+# July 29th
+
+I finished the repo, imported the images and journal entries from google docs, just cleaned up the whole project. 
+
 
 
 
